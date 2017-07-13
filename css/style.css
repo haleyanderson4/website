@@ -1,1 +1,43 @@
 /* YOUR CUSTOM STYLES */
+body
+{
+    background: url(http://minimal-wallpapers.com/wp-content/uploads/2015/09/giraffe-minimalist-wallpaper-orange.png) no-repeat center fixed;
+    background-size: cover;
+    content: center !important;
+}
+
+.title
+{
+    width: 50% !important;
+    content: center !important;
+    margin: 5rem 25% !important;
+    margin-bottom: 10rem !important;
+}
+
+.involvement
+{
+    width: 50% !important;
+    content: center;
+    margin: 1rem 25% !important;
+}
+
+.blurb
+{
+    width: 50% !important;
+    content: center;
+    margin: 1rem 25% !important;
+}
+
+.experience
+{
+    width: 50% !important;
+    content: center;
+    margin: 1rem 25% !important;
+}
+
+.mlatLink
+{
+    width: 50% !important;
+    content: center;
+    margin: 1rem 25% !important;
+}
