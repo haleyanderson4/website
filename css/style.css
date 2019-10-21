@@ -1,7 +1,9 @@
 /* YOUR CUSTOM STYLES */
 body
 {
-    background: url(http://minimal-wallpapers.com/wp-content/uploads/2015/09/giraffe-minimalist-wallpaper-orange.png) no-repeat center fixed;
+    /*background: url(http://minimal-wallpapers.com/wp-content/uploads/2015/09/giraffe-minimalist-wallpaper-orange.png) no-repeat center fixed;*/
+    /*background-color: gold*/
+    background-image: url(giraffe-minimalist-wallpaper-orange);
     background-size: cover;
     content: center !important;
 }
