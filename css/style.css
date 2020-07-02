@@ -3,7 +3,7 @@ body
 {
     /*background: url(http://minimal-wallpapers.com/wp-content/uploads/2015/09/giraffe-minimalist-wallpaper-orange.png) no-repeat center fixed;*/
     background-color: gold
-    background-image: image(giraffe-minimalist-wallpaper-orange);
+    background-image: url(giraffe-minimalist-wallpaper-orange.png);
     background-size: cover;
     content: center !important;
 }
